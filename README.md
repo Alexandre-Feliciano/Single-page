@@ -2,7 +2,7 @@
 
 Uma página web estática simples, desenvolvida com HTML e CSS para a matéria de Web Design. O projeto simula uma navegação de página única (SPA - Single Page Application). 
 
-![[/assets/img/Captura de tela 2025-05-04 215026.png]]
+![Preview do projeto](assets/img/Captura%20de%20tela%202025-05-04%20215026.png)
 
 ## 🔍 Visão Geral
 
