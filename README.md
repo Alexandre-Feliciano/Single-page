@@ -31,6 +31,9 @@ Este projeto demonstra uma navegação de página única utilizando apenas HTML 
 
 - Você pode simplesmente abrir o arquivo clicando duas vezes ou arrastando para o navegador.
 
+- Ou entre nesse [link](https://alexandre-feliciano.github.io/Single-page/) para acessar o prejeto na web.
+
+
 ## 📌 Funcionalidades
 
 - Navegação em página única
